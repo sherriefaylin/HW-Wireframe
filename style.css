@@ -42,6 +42,11 @@ nav {
     color: white;
 }
 
+#h123,
+#p {
+    font-weight: bold
+}
+
 p {
     background-color: white;
     color: gray;
